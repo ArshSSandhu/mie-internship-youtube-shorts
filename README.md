@@ -12,4 +12,4 @@ The goal is to document my daily learning, technical progress, debugging work, a
 
 | Date | Short | Topic | Description |
 |---|---|---|---|
-| June 6, 2026 | [Watch](PASTE_LINK) | Debugging | Debugged and Fixed Open Source Server Local Setup on WSL2 |
+| June 6, 2026 | [Watch](https://youtube.com/shorts/V2HgaAhfNVg?feature=share) | Debugging | Debugged and Fixed Open Source Server Local Setup on WSL2 |
