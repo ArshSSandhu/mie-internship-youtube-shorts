@@ -12,4 +12,7 @@ The goal is to document my daily learning, technical progress, debugging work, a
 
 | Date | Short | Topic | Description |
 |---|---|---|---|
-| June 6, 2026 | [Watch](https://youtube.com/shorts/V2HgaAhfNVg?feature=share) | Debugging | Debugged and Fixed Open Source Server Local Setup on WSL2 |
+| June 4, 2026 | [Watch](https://youtube.com/shorts/V2HgaAhfNVg?feature=share) | Debugging | Debugged and Fixed Open Source Server Local Setup on WSL2 |
+| June 5, 2026 | [Watch](https://youtube.com/shorts/yBfXP95ls6M?feature=share) | Open Source Contribution | Reproduced Local Startup Bug, Opened GitHub Issue, and Prepared Fix PR |
+
+
