@@ -1,4 +1,4 @@
-# MIE Internship YouTube Shorts Log
+# MIE Internship YouTube Shorts
 
 This repository tracks the YouTube Shorts I upload during my Software Engineer Internship at Medical Informatics Engineering (MIE).
 
