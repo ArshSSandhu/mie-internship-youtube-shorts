@@ -18,5 +18,7 @@ The goal is to document my daily learning, technical progress, debugging work, a
 | July 10, 2026 | [Watch](https://youtube.com/shorts/6CygJmrTFrw?feature=share) | Open Source Contribution | Reviewed Robert’s PR Feedback, Implemented Requested Changes, Fixed Environment Issues, and Completed Commits for Docker Provider Improvements|
 | July 13, 2026 | [Watch](https://youtube.com/shorts/92dVQnpaO14?feature=share) | Open Source Contribution | Implemented Remaining PR Changes for Docker Support, Added Validation, System Container Support, Network Improvements, and Completed Multiple Review Commits|
 | July 28, 2026 | [Watch](https://youtube.com/shorts/X72zV8xbp70?feature=share) | MIE Academy Gaming Lab Setup | Replaced Proxmox with Windows 10 on eight computers, prepared bootable USB drives, installed and configured Call of Duty, completed the gaming room setup for MIE Academy 2026.|
+| August 3, 2026 | [Watch](https://youtube.com/shorts/fTCj1hWtAZ0?feature=share) | Kubernetes Integration | Raised ticket for Kubernetes integration, documented the proposed architecture and implementation approach, and planned to divide the project, studied Kubernetes API, Master and Worker Nodes|
+
 
 
