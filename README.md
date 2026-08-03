@@ -17,5 +17,6 @@ The goal is to document my daily learning, technical progress, debugging work, a
 | July 9, 2026 | [Watch](https://youtube.com/shorts/Uwhhk6cfXHw?feature=share) | Changes to PR-394 | Fixed Cred Missing UI, Fixed Sequelize import issue, and Corrected Namespace|
 | July 10, 2026 | [Watch](https://youtube.com/shorts/6CygJmrTFrw?feature=share) | Open Source Contribution | Reviewed Robert’s PR Feedback, Implemented Requested Changes, Fixed Environment Issues, and Completed Commits for Docker Provider Improvements|
 | July 13, 2026 | [Watch](https://youtube.com/shorts/92dVQnpaO14?feature=share) | Open Source Contribution | Implemented Remaining PR Changes for Docker Support, Added Validation, System Container Support, Network Improvements, and Completed Multiple Review Commits|
+| July 28, 2026 | [Watch](https://youtube.com/shorts/X72zV8xbp70?feature=share) | MIE Academy Gaming Lab Setup | Replaced Proxmox with Windows 10 on eight computers, prepared bootable USB drives, installed and configured Call of Duty, completed the gaming room setup for MIE Academy 2026.|
 
 
